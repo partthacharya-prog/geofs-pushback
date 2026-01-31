@@ -1,11 +1,12 @@
 // ==UserScript==
-// @name         GeoFS Simple Pushback
+// @name         GeoFS Pushback
 // @namespace    geofs.pushback
 // @version      1.0
 // @description  Adds pushback to GeoFS
 // @match        https://www.geo-fs.com/*
 // @grant        none
 // ==/UserScript==
+
 
 (function () {
     'use strict';
